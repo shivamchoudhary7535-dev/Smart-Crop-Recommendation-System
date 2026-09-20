@@ -105,6 +105,6 @@ Smart-Crop-Recommendation-System/
 
 ### 🗄️ Database Management
 ![Database Management](./Screenshot%20%28506%29.png)
-
+<!-- Project screenshots -->
 
 
