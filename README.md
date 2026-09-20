@@ -89,3 +89,22 @@ Smart-Crop-Recommendation-System/
 ├── composer.json
 ├── composer.lock
 └── .gitignore
+## 📸 Project Screenshots
+
+### 🏠 Farmer Input Module
+![Farmer Input Module](./Screenshot%20%28502%29.png)
+
+### 🌾 Crop Recommendation & Weather Report
+![Crop Recommendation](./Screenshot%20%28503%29.png)
+
+### 🤖 AI Advisory & Disease Detection
+![AI Advisory](./Screenshot%20%28504%29.png)
+
+### 📊 Soil Health & AI Analytics
+![Analytics](./Screenshot%20%28505%29.png)
+
+### 🗄️ Database Management
+![Database Management](./Screenshot%20%28506%29.png)
+
+
+
