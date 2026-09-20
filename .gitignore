@@ -1,0 +1,20 @@
+# Python virtual environment
+ai_env/
+
+# Composer dependencies
+vendor/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env
+.env.*
+
+# ZIP files
+*.zip
+
+# OS files
+Thumbs.db
+.DS_Store
